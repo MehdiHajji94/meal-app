@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Heart, Star, Users, TrendingUp, LogOut, Plus, Send } from 'lucide-react';
+import { Star, LogOut, Plus } from 'lucide-react';
 import './App.css';
  
 const MealApp = () => {
